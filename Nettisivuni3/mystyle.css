@@ -1,0 +1,27 @@
+body {
+	background-color: MediumSeaGreen;
+}
+
+
+h1	{
+	text-align: center;
+	color: blue;
+	border-style: solid;
+	border-color; lightblue;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-right: 15px;
+	margin-left: 15px;
+}
+
+p 	{
+	background-color: lightblue;
+	border-style: solid;
+	border-color: lightblue;
+	border-radius: 20px;
+	padding-top: 15x;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+}
+
