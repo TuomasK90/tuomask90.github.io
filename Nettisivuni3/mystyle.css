@@ -7,11 +7,11 @@ h1	{
 	text-align: center;
 	color: blue;
 	border-style: solid;
-	border-color; lightblue;
-	margin-top: 15px;
-	margin-bottom: 15px;
-	margin-right: 15px;
-	margin-left: 15px;
+	border-color: blue;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	margin-right: 25px;
+	margin-left: 25px;
 }
 
 p 	{
@@ -19,8 +19,8 @@ p 	{
 	border-style: solid;
 	border-color: lightblue;
 	border-radius: 20px;
-	padding-top: 15x;
-	padding-right: 15px;
+	padding-top: 15px;
+	padding-right: 0px;
 	padding-bottom: 15px;
 	padding-left: 15px;
 }
